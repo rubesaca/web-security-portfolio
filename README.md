@@ -15,6 +15,7 @@ All vulnerabilities documented here were:
 | ID  | Vulnerability | Type | Severity |
 |----:|--------------|------|----------|
 | 001 | Stored XSS in user registration | XSS | High |
+| 002 | Reflected XSS in product search | XSS | High |
 
 ---
 
