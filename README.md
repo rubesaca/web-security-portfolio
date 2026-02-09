@@ -14,8 +14,8 @@ All vulnerabilities documented here were:
 
 | ID  | Vulnerability | Type | Severity |
 |----:|--------------|------|----------|
-| 001 | Stored XSS in user registration | XSS | High |
-| 002 | Reflected XSS in product search | XSS | High |
+| [001](https://github.com/rubesaca/web-security-portfolio/tree/3ea8dc57f4d158bb584fb93b14c80ab434b4c05f/cases/001-stored-xss-registration) | Stored XSS in user registration | XSS | High |
+| [002](https://github.com/rubesaca/web-security-portfolio/tree/3ea8dc57f4d158bb584fb93b14c80ab434b4c05f/cases/002-reflected-xss-product-search) | Reflected XSS in product search | XSS | High |
 
 ---
 
